@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548789611805",
+    "project_id": "hunting-food-eea39",
+    "storage_bucket": "hunting-food-eea39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548789611805:android:c1f991c704aadf59ce45f4",
+        "android_client_info": {
+          "package_name": "com.example.huntingfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548789611805-do5gmes05pkoo2sf9lkunlfo5ulgmo8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlJ6EovC4-KpW7HXbYAb0Q2SsLvkbYEZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548789611805-do5gmes05pkoo2sf9lkunlfo5ulgmo8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
